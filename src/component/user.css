@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Cabin+Condensed&family=Courgette&family=Fira+Sans&family=Fredoka+One&family=Inter:wght@300&family=Leckerli+One&family=Pacifico&family=Poppins:wght@600&family=Roboto&family=Roboto+Condensed&family=Rubik&family=Signika+Negative:wght@300&family=Source+Sans+Pro&family=Ubuntu:wght@300;400&family=Varela+Round&family=Yanone+Kaffeesatz&display=swap');
+.container-fluid{
+     background-image: url("./../images/Back drop 1.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin-top: 4rem;
+     padding-bottom:9.7rem;
+}
+
+.heading h3{
+     font-family: 'Poppins';
+     letter-spacing:.15rem;
+     font-weight: 700;
+}
+
+.inputs{
+     font-family: 'Poppins';
+     font-size: 16px;
+}
+
+.inputs input{
+     border-color: black;
+}
+
+.inputs label{
+    letter-spacing:.05rem;
+}
+
+.inputs button{
+     font-size: 16px;
+     letter-spacing:.2rem;
+}
+
+.bottom-nav{
+     background-color: #33A0D9;
+     padding-left: 237.5px;
+     padding-top: .2rem;
+     padding-bottom: .2rem;
+}
+
+.nav-item a{
+     font-size:16px;
+     color: white;
+}
+
+.bottom-nav li a:hover{
+     color: white;
+}
+
